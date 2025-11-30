@@ -1,4 +1,4 @@
-# 🛡️ CleanTalk Promo Code 2025: 3 Websites for $20.40 (Save 33%)
+# 🛡️ CleanTalk Coupon & Promo Code 2025: 3 Websites for $20.40 (Save 33%)
 
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 [![Discount](https://img.shields.io/badge/Deal-Best%20Value-emerald.svg)](https://cleantalk.org/?pid=1078601)
