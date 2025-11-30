@@ -4,8 +4,9 @@
 [![Discount](https://img.shields.io/badge/Discount-Max%20Savings-red.svg)](https://cleantalk.org/?pid=1078601)
 [![Verified](https://img.shields.io/badge/Verified-2025-blue.svg)]()
 
-> **Quick Link:** 🚀 [**Click here to Activate CleanTalk Discount**](https://cleantalk.org/?pid=1078601)  
-> *Save time, protect your SEO, and stop spam bots instantly.*
+> **🔥 HOT DEAL ALERT:**  
+> **[Get Unlimited Protection for 3 Websites for just $20.4/Year](https://cleantalk.org/?pid=1078601)**  
+> *Regular price: ~$31. Save $10.80 instantly (33% OFF) with this bundle.*
 
 ---
 
