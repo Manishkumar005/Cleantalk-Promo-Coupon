@@ -3,6 +3,7 @@ import { Hero } from './components/Hero';
 import { SavingsCalculator } from './components/SavingsCalculator';
 import { SpamImpactAI } from './components/SpamImpactAI';
 import { Features } from './components/Features';
+import { PromoGenerator } from './components/PromoGenerator';
 import { Footer } from './components/Footer';
 import { AFFILIATE_LINK } from './constants';
 import { Shield } from 'lucide-react';
@@ -31,6 +32,7 @@ const App: React.FC = () => {
         <Features />
         <SavingsCalculator />
         <SpamImpactAI />
+        <PromoGenerator />
       </main>
       
       <Footer />
