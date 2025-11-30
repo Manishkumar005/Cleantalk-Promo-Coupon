@@ -114,24 +114,6 @@ CleanTalk is a cloud-based service, meaning it doesn't slow down your server lik
 
 ---
 
-## 🛠 Installation of Analysis Tool
-
-This repository contains a React application that calculates your specific savings and uses Gemini AI to analyze spam risks for your niche.
-
-1.  **Clone the repo**
-    ```bash
-    git clone https://github.com/Manishkumar005/Cleantalk-Promo-Coupon-code.git
-    ```
-2.  **Install dependencies**
-    ```bash
-    npm install
-    ```
-3.  **Run the calculator**
-    ```bash
-    npm start
-    ```
-
----
 
 <div align="center">
   <h3>Don't wait until you get hacked.</h3>
